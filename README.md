@@ -1,3 +1,3 @@
 # sample_application_linux
 
-for computer distributing system subject
+for distributing system and cloud computing subject
